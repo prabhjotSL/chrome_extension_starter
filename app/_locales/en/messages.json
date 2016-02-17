@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Sentimeter",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "What do previous customers of a product online feel about their purchase? Are they happy or sad or confused. Sentimeter lets you know the general emotion around a product by analyzing all the reviews so you can make an informed decision without going through a large amount of reviews.",
+    "description": "The description of the application"
+  }
+}
